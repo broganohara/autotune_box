@@ -1,14 +1,2 @@
-# Debug output files
 Debug/
-
-# Project files
-.osx.project
-.mxproject
-.cproject
-.project
 .settings/
-
-# Temporary files
-*.tmp
-*.bak
-*.swp
